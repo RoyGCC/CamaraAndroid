@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Semestral</string>
+    <string name="et">Fotos.jpg</string>
+    <string name="btn1">Tomar Foto</string>
+    <string name="btn2">Guardar Foto</string>
+    <string name="btn3">Ver Foto</string>
+
+</resources>
